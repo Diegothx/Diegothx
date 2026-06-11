@@ -18,10 +18,12 @@ Here are some ideas to get you started:
 
 | Area | Tools & Technologies |
 |------|---------------------|
-| Software Engineering | Python, TypeScript, React, Next.js, FastAPI |
-| AI & Data |  Pandas |
+| Software Engineering | Python, TypeScript, Swift, SwiftUI, C#, C++, Go, React, Next.js, FastAPI, Django |
+| Robotics & Automation | ROS 2, LiDAR, Computer Vision, Signal Processing, Sensor Fusion |
+| AI & Data | Pandas, CNNs, Transformers, LLM Evaluation, Flowise |
 | Databases | PostgreSQL, Redis |
-| DevOps | Docker, AWS, GitHub Actions, TrueNas |
-| Digital Illustration | Procreate, Krita, Inkscape |
-| 3D Art | Blender  |
-| Game Development | Unity, Unreal Engine, Godot |
+| DevOps & Infrastructure | Linux, Docker, GitHub Actions, AWS, GCP, TrueNAS |
+| Game Development | Unreal Engine 5, Godot, Unity |
+| Hardware & Embedded | KiCad, PCB Design, Firmware Development |
+| Mechanical Design | Fusion 360, Autodesk Inventor |
+| Creative Tools | Blender, Procreate, Krita, Inkscape |
