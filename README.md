@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 | Area | Tools & Technologies |
 |------|---------------------|
 | Software Engineering | Python, TypeScript, Swift, SwiftUI, C#, C++, Go, React, Next.js, FastAPI, Django |
-| Robotics & Automation | ROS 2, LiDAR, Computer Vision, Signal Processing, Sensor Fusion |
+| Robotics & Automation | ROS 2, LiDAR, Computer Vision, Signal Processing |
 | AI & Data | Pandas, CNNs, Transformers, LLM Evaluation, Flowise |
 | Databases | PostgreSQL, Redis |
 | DevOps & Infrastructure | Linux, Docker, GitHub Actions, AWS, GCP, TrueNAS |
