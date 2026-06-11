@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🛠 Skills & Tools
+
+| Area | Tools & Technologies |
+|------|---------------------|
+| Software Engineering | Python, TypeScript, React, Next.js, FastAPI |
+| AI & Data |  Pandas |
+| Databases | PostgreSQL, Redis |
+| DevOps | Docker, AWS, GitHub Actions, TrueNas |
+| Digital Illustration | Procreate, Krita, Inkscape |
+| 3D Art | Blender  |
+| Game Development | Unity, Unreal Engine, Godot |
